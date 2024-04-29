@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is aimed at performing a height-based parallax correction for the GPM Microwave Imager (GMI) Precipitation retrievals. The correction is achieved by utilizing various datasets including ERA5 temperature profiles and geopotential height data, MRMS instantaneous data, and GPROF level 2 data.
+This project performs a height-based parallax correction for the GPM Microwave Imager (GMI) Precipitation retrievals. The correction is achieved by utilizing various datasets including ERA5 temperature profiles and geopotential height data, MRMS instantaneous data, and GPROF level 2 data.
 
 ## Requirements
 
